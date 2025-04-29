@@ -65,3 +65,16 @@ PLC大致模块如下：
 ![6](https://github.com/user-attachments/assets/24713c6a-39be-4ec1-8314-fae8f308ea69)
 
 主要有夹爪准备、夹爪复位、夹爪备压、下压、步进等。
+
+硬件接线如下：
+
+![企业微信截图_17459181854038](https://github.com/user-attachments/assets/c65c9d8a-6f42-41a5-b90a-39a951fbc0f0)
+
+![企业微信截图_17459181402286](https://github.com/user-attachments/assets/4449f187-d96d-4912-bb75-421cadd8a1fd)
+
+![企业微信截图_17459181036197](https://github.com/user-attachments/assets/72bed580-bccb-48dd-9197-cd027af995be)
+
+![企业微信截图_17459180175418](https://github.com/user-attachments/assets/c1fd1d07-0e52-4228-be5a-ba66c84397d7)
+
+![企业微信截图_17459180063154](https://github.com/user-attachments/assets/587ed356-4d2e-4ef7-b486-4d602f59df46)
+
