@@ -1324,7 +1324,7 @@ class MainWindow(QTabWidget):
     def about_me(self):
         M_widget = QWidget()
         aboutme_layout = QVBoxLayout()
-        aboutme_title = QLabel('\n\n欢迎使用凤宝重科自研矫直机系统beta版\n\n 产品处于开发阶段，感谢包容与理解！！！')
+        aboutme_title = QLabel('\n\n欢迎使用XXXX自研矫直机系统beta版\n\n 产品处于开发阶段，感谢包容与理解！！！')
         aboutme_title.setFont(QFont('楷体', 24))
         aboutme_title.setAlignment(Qt.AlignCenter)
         aboutme_img = QLabel()
