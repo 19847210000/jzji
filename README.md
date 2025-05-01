@@ -1,4 +1,4 @@
-![5](https://github.com/user-attachments/assets/90c15f59-bbd0-4949-a8a7-9c320b949eac)
+![image](https://github.com/user-attachments/assets/5622cb49-6c88-4502-9132-fd92fc0143d8)
 
 这是我的一个小项目，配合PLC与机械结构进行通讯，通过旋转一周采集散点进行拟合计算，实现检测一个轴体（圆轴或方轴）的中心偏移量的角度和方向。根据所有传感器获取的轴管状态进行一定的下压策略对轴管进行校正。
 
